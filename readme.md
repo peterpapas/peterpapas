@@ -4,7 +4,7 @@
 - 👀 I’m interested in software development :computer:
 - 🌱 I’m currently learning full stack web-development but also intrested in AR & AI
 - 💞️ I’m looking to collaborate on related projects
-- :chart_with_upwards_trend: 2021 Goals:
+- :chart_with_upwards_trend: 2022 Goals:
  - :one: Contribute more to open source projects 
  - :two: Commit more personal projects
 - :zap: Fun fact: I am a gym junkie :muscle: and a crypto chad :trollface:
