@@ -54,7 +54,7 @@
 ![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)
 ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)
 
-### Currently Learning 
+#### Currently Learning
 
 ![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)
 ![GO](https://img.shields.io/badge/GO-0095D5.svg?&style=flat&logo=go&logoColor=white)
