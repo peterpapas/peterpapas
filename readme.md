@@ -9,10 +9,8 @@
  - :two: Commit more personal projects
 - :zap: Fun fact: I am a gym junkie :muscle: and a crypto chad  :trollface: ![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white) :trollface: 
 
+<h3 align="center">Connect with me </h3>
 <hr/>
-
-<h3 align="center">Connect with me </h3><strong>
-
 <p align="center">
   <a href="mailto:panagiotis.1230@hotmail.com?subject=Hey%20Peter"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/panagiotis-papanastasatos"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
