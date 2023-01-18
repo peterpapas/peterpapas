@@ -7,7 +7,7 @@
 - :chart_with_upwards_trend: 2023 Goals:
  - :one: Contribute more to open source projects 
  - :two: Commit more personal projects
-- :zap: Fun fact: I am a gym junkie :muscle: and a crypto chad ![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white) :trollface: 
+- :zap: Fun fact: I am a gym junkie :muscle: and a crypto chad :trollface: ![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white) :trollface: 
 
 <hr/>
 
