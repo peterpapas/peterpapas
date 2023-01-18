@@ -11,7 +11,7 @@
 
 <hr/>
 
-<h3 align="center">Connect with me </h3>
+<h2 align="center">Connect with me </h2>
 
 <p align="center">
   <a href="mailto:panagiotis.1230@hotmail.com?subject=Hey%20Peter"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
