@@ -11,10 +11,9 @@
 
 <hr/>
 
-
+<h3 align="center">Connect with me </h3>
 
 <p align="center">
-## Connect with me 
   <a href="mailto:panagiotis.1230@hotmail.com?subject=Hey%20Peter"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/panagiotis-papanastasatos"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/peterpapas01"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
