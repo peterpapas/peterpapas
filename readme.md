@@ -56,8 +56,8 @@
 
 ### Currently Learning 
 
-![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&
-![GO](https://img.shields.io/static/v1?label=&message=GO&color=blue)
+![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)
+![GO](https://img.shields.io/badge/GO-0095D5.svg?&style=flat&logo=go&logoColor=white)
 
 <br/>
 <br/>
