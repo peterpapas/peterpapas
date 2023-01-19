@@ -68,7 +68,7 @@
 
 <br/>
 <br/>
-<img align="right" alt="peterpapas GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterpapas&layout=compact" />
+<img align="left" alt="peterpapas GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterpapas&layout=compact" />
 
 
 <details align="middle">
