@@ -47,14 +47,14 @@
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=for-the-badge&logo=tailwind-css)
 
 #### General
-![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=for-the-badge&logo=ddd&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=for-the-badge&logo=vercel&logoColor=000000)
 ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=for-the-badge&logo=rest&logoColor=white)
 ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=for-the-badge&logo=rest&logoColor=white)
+![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=for-the-badge&logo=ddd&logoColor=white)
 
 #### Currently Learning
 
