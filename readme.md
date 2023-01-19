@@ -68,9 +68,9 @@
 
 <br/>
 <br/>
-<img align="left" alt="peterpapas GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterpapas&layout=compact" />
+<img align=",iddle" alt="peterpapas GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterpapas&layout=compact" />
 
-
+<br>
 <details align="middle">
   <summary>:zap: GitHub Stats</summary>
 
