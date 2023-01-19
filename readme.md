@@ -70,7 +70,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterpapas&layout=compact)
 
-<img align="right" alt="bugs" width="400"  src="https://giphy.com/embed/bF7hth8Z0NhffWcrvL">
+<img align="right" alt="bugs" width="400"  src="https://media.giphy.com/media/bF7hth8Z0NhffWcrvL/giphy.gif">
 
 
 <details>
