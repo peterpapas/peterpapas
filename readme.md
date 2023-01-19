@@ -1,6 +1,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=peterpapas.peterpapas)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=5&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Hey%2C+I'm+Pano+%F0%9F%91%8B;Welcome+to+my+Github+page.+%F0%9F%98%81)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=5000&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Hey%2C+I'm+Pano+%F0%9F%91%8B;Welcome+to+my+Github+page.+%F0%9F%98%81)
 
 ## :mortar_board: I’m a Junior Front-End Web Developer and IT student  
 - 👀 I’m interested in software development :computer:
