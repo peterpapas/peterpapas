@@ -72,7 +72,6 @@
 
 <img align="right" alt="bugs" width="400" height="480" src="https://giphy.com/embed/bF7hth8Z0NhffWcrvL">
 
-<iframe src="https://giphy.com/embed/bF7hth8Z0NhffWcrvL" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -80,4 +79,3 @@
   <img align="left" alt="peterpapas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=peterpapas&show_icons=true&hide_border=true" />
 
 </details>
-
