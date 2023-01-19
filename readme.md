@@ -80,6 +80,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="center" alt="peterpapas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=peterpapas&show_icons=true&hide_border=true" />
+  <img align="middle" alt="peterpapas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=peterpapas&show_icons=true&hide_border=true" />
 
 </details>
