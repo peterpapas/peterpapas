@@ -14,8 +14,8 @@
 - :zap: Fun fact: I am a gym junkie :muscle: and a crypto chad  :trollface: ![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white) :trollface: 
 
 
-
-<h3 align="center">Connect with me: ![](https://visitor-badge.glitch.me/badge?page_id=peterpapas.peterpapas)</h3>
+### ![](https://visitor-badge.glitch.me/badge?page_id=peterpapas.peterpapas)
+<h3 align="center">Connect with me:</h3>  
 <hr/>
 <p align="center">
   <a href="mailto:panagiotis.1230@hotmail.com?subject=Hey%20Peter"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
