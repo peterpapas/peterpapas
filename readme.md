@@ -1,6 +1,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=peterpapas.peterpapas)
 
-### Hi there, I'm Pano 👋 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=5&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Hey%2C+I'm+Pano+%F0%9F%91%8B;Welcome+to+my+Github+page.+%F0%9F%98%81)
 
 ## :mortar_board: I’m a Junior Front-End Web Developer and IT student  
 - 👀 I’m interested in software development :computer:
@@ -11,15 +11,9 @@
  - :two: Commit more personal projects
 - :zap: Fun fact: I am a gym junkie :muscle: and a crypto chad  :trollface: ![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white) :trollface: 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="your link" target="blank"><img align="center" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
 
-<h3 align="center">Connect with me </h3>
+
+<h3 align="center">Connect with me:</h3>
 <hr/>
 <p align="center">
   <a href="mailto:panagiotis.1230@hotmail.com?subject=Hey%20Peter"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
