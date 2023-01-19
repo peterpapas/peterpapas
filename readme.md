@@ -72,14 +72,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterpapas&layout=compact)
 
-<img align="left" alt="bugs" width="100" height="100" src="https://media.giphy.com/media/bF7hth8Z0NhffWcrvL/giphy.gif">
-<img align="right" alt="bugs" width="100" height="100" src="https://media.giphy.com/media/bF7hth8Z0NhffWcrvL/giphy.gif">
-
-
-
 <details align="middle">
   <summary>:zap: GitHub Stats</summary>
 
   <img align="middle" alt="peterpapas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=peterpapas&show_icons=true&hide_border=true" />
 
 </details>
+<img align="left" alt="bugs" width="100" height="100" src="https://media.giphy.com/media/bF7hth8Z0NhffWcrvL/giphy.gif">
+<img align="right" alt="bugs" width="100" height="100" src="https://media.giphy.com/media/bF7hth8Z0NhffWcrvL/giphy.gif">
