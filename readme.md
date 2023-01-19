@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=5000&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Hey%2C+I'm+Pano+%F0%9F%91%8B;Welcome+to+my+Github+page.+%F0%9F%98%81)
 
-## :mortar_board: I’m a Junior Front-End Web Developer and IT student ![](https://visitor-badge.glitch.me/badge?page_id=peterpapas.peterpapas)
+## :mortar_board: I’m a Junior Front-End Web Developer and IT student 
 - 👀 I’m interested in software development :computer:
 - 🌱 I’m currently learning full stack web-development but also intrested in AR & AI
 - 💞️ I’m looking to collaborate on related projects
@@ -15,7 +15,7 @@
 
 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me: ![](https://visitor-badge.glitch.me/badge?page_id=peterpapas.peterpapas)</h3>
 <hr/>
 <p align="center">
   <a href="mailto:panagiotis.1230@hotmail.com?subject=Hey%20Peter"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
