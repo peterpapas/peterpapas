@@ -1,3 +1,5 @@
+![](https://visitor-badge.glitch.me/badge?page_id=peterpapas.peterpapas)
+
 ### Hi there, I'm Pano 👋 
 
 ## :mortar_board: I’m a Junior Front-End Web Developer and IT student  
@@ -68,7 +70,3 @@
   <img align="left" alt="peterpapas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=peterpapas&show_icons=true&hide_border=true" />
 
 </details>
-
-[linkedin]: https://www.linkedin.com/in/panagiotis-papanastasatos/
-[facebook]: https://www.facebook.com/peterpapas01
-[email]: <mailto: panagiotis.1230@hotmail.com>
