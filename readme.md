@@ -58,6 +58,8 @@
 
 ![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![GO](https://img.shields.io/badge/GO-0095D5.svg?&style=for-the-badge&logo=go&logoColor=white)
+![FLUTTER](https://img.shields.io/badge/FLUTTER-0095D5.svg?&style=for-the-badge&logo=flutter&logoColor=white)
+
 
 <br/>
 <br/>
