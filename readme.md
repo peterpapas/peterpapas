@@ -1,9 +1,9 @@
-![](https://visitor-badge.glitch.me/badge?page_id=peterpapas.peterpapas)
+
 <img align="left" alt="bugs" width="100" height="100" src="https://media.giphy.com/media/bF7hth8Z0NhffWcrvL/giphy.gif">
 <img align="right" alt="bugs" width="100" height="100" src="https://media.giphy.com/media/bF7hth8Z0NhffWcrvL/giphy.gif">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=5000&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Hey%2C+I'm+Pano+%F0%9F%91%8B;Welcome+to+my+Github+page.+%F0%9F%98%81)
-
+![](https://visitor-badge.glitch.me/badge?page_id=peterpapas.peterpapas)
 ## :mortar_board: I’m a Junior Front-End Web Developer and IT student  
 - 👀 I’m interested in software development :computer:
 - 🌱 I’m currently learning full stack web-development but also intrested in AR & AI
