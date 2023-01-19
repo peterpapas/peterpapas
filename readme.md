@@ -65,8 +65,6 @@
 ![GO](https://img.shields.io/badge/GO-0095D5.svg?&style=for-the-badge&logo=go&logoColor=white)
 ![FLUTTER](https://img.shields.io/badge/FLUTTER-0095D5.svg?&style=for-the-badge&logo=flutter&logoColor=white)
 
-
-<br/>
 <br/>
 <img align=",iddle" alt="peterpapas GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterpapas&layout=compact" />
 
