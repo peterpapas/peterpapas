@@ -31,6 +31,8 @@
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![RUBY](https://img.shields.io/badge/RUBY-3776AB.svg?&style=for-the-badge&logo=Ruby&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
+![GRAPHQL](https://img.shields.io/badge/GRAPHQL-777BB4.svg?&style=for-the-badge&logo=graphql&logoColor=white)
+
 
 #### Frameworks
 
