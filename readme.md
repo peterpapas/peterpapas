@@ -68,8 +68,8 @@
 
 <br/>
 <br/>
+<img align="middle" alt="peterpapas GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterpapas&layout=compact" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterpapas&layout=compact)
 
 <details align="middle">
   <summary>:zap: GitHub Stats</summary>
