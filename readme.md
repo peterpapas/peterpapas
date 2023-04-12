@@ -11,7 +11,7 @@
 - :chart_with_upwards_trend: 2023 Goals:
  - :one: Contribute more to open source projects 
  - :two: Commit more personal projects
-- :zap: Fun fact: I am a gym junkie :muscle: and a crypto chad  :trollface: ![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white) :trollface: 
+- ⚡ Fun fact: When I'm not busy bouldering, I can be found hitting the gym and dabbling in the crypto world as a proud ![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white) hodler :trollface:
 ### ![](https://visitor-badge.glitch.me/badge?page_id=peterpapas.peterpapas)
 
 <h3 align="center">Connect with me:</h3>  
