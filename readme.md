@@ -66,8 +66,12 @@
 ![FLUTTER](https://img.shields.io/badge/FLUTTER-0095D5.svg?&style=for-the-badge&logo=flutter&logoColor=white)
 
 <br/>
-<img align=",iddle" alt="peterpapas GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterpapas&layout=compact" />
-
+<p align="center">
+  <img alt="peterpapas GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterpapas&layout=compact" />
+  <a href="https://app.daily.dev/peterpapas">
+    <img src="https://api.daily.dev/devcards/40d65fbd29f5475ba1b959e11268ccbb.png?r=pe0" width="200" alt="Peter papas's Dev Card"/>
+  </a>
+</p>
 <br>
 <details align="middle">
   <summary>:zap: GitHub Stats</summary>
@@ -75,5 +79,6 @@
   <img align="middle" alt="peterpapas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=peterpapas&show_icons=true&hide_border=true" />
 
 </details>
+
 <img align="left" alt="bugs" width="100" height="100" src="https://media.giphy.com/media/bF7hth8Z0NhffWcrvL/giphy.gif">
 <img align="right" alt="bugs" width="100" height="100" src="https://media.giphy.com/media/bF7hth8Z0NhffWcrvL/giphy.gif">
