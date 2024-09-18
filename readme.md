@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=5000&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Hey%2C+I'm+Pano+%F0%9F%91%8B;Welcome+to+my+Github+page.+%F0%9F%98%81)
 
-## :mortar_board: I’m a Front-End Web Developer and IT student 
+## :mortar_board: I’m a Full-stack Web Developer and IT student 
 - 👀 I’m interested in software development :computer:
 - 🌱 I’m currently learning full stack web-development but also intrested in AR & AI
 - 💞️ I’m looking to collaborate on related projects
