@@ -1,84 +1,82 @@
-
-<img align="left" alt="bugs" width="100" height="100" src="https://media.giphy.com/media/bF7hth8Z0NhffWcrvL/giphy.gif">
-<img align="right" alt="bugs" width="100" height="100" src="https://media.giphy.com/media/bF7hth8Z0NhffWcrvL/giphy.gif">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=5000&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Hey%2C+I'm+Pano+%F0%9F%91%8B;Welcome+to+my+Github+page.+%F0%9F%98%81)
-
-## :mortar_board: I’m a Full-stack Web Developer and IT student 
-- 👀 I’m interested in software development :computer:
-- 🌱 I’m currently learning full stack web-development but also intrested in AR & AI
-- 💞️ I’m looking to collaborate on related projects
-- :chart_with_upwards_trend: 2023 Goals:
- - :one: Contribute more to open source projects 
- - :two: Commit more personal projects
-- ⚡ Fun fact: When I'm not busy bouldering, I can be found hitting the gym and dabbling in the crypto world as a proud ![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white) hodler :trollface:
-### ![](https://visitor-badge.glitch.me/badge?page_id=peterpapas.peterpapas)
-
-<h3 align="center">Connect with me:</h3>  
-<hr/>
 <p align="center">
-  <a href="mailto:panagiotis.1230@hotmail.com?subject=Hey%20Peter"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/panagiotis-papanastasatos"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/peterpapas01"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=900&center=true&vCenter=true&width=720&height=120&lines=Hi%2C+I'm+Panos;Software+Engineer+%40+Mentorloop;Building+reliable+web+products;Exploring+AI+agents%2C+LLMs+%26+developer+tooling"
+    alt="Hi, I'm Panos. Software Engineer at Mentorloop. Building reliable web products. Exploring AI agents, LLMs, and developer tooling."
+  />
 </p>
-<hr/>
 
-### My Tech Stack:
-
-#### Languages
-
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-![RUBY](https://img.shields.io/badge/RUBY-3776AB.svg?&style=for-the-badge&logo=Ruby&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
-![GRAPHQL](https://img.shields.io/badge/GRAPHQL-ff69b4.svg?&style=for-the-badge&logo=graphql&logoColor=white)
-
-
-#### Frameworks
-
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=vuedotjs)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=for-the-badge&logo=nuxtdotjs)
-![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
-
-#### Styling
-
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
-![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=for-the-badge&logo=tailwind-css)
-
-#### General
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=ffffff)
-![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=for-the-badge&logo=vercel&logoColor=000000)
-![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black)
-![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=for-the-badge&logo=rest&logoColor=white)
-![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=for-the-badge&logo=ddd&logoColor=white)
-
-#### Currently Learning
-
-![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
-![GO](https://img.shields.io/badge/GO-0095D5.svg?&style=for-the-badge&logo=go&logoColor=white)
-![FLUTTER](https://img.shields.io/badge/FLUTTER-0095D5.svg?&style=for-the-badge&logo=flutter&logoColor=white)
-
-<br/>
 <p align="center">
-  <img alt="peterpapas GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterpapas&layout=compact" />
-  <a href="https://app.daily.dev/peterpapas">
-    <img src="https://api.daily.dev/devcards/40d65fbd29f5475ba1b959e11268ccbb.png?r=pe0" width="200" alt="Peter papas's Dev Card"/>
-  </a>
+  <em>Software Engineer &middot; Melbourne, Australia &middot; currently building at Mentorloop</em>
 </p>
-<br>
-<details align="middle">
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="middle" alt="peterpapas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=peterpapas&show_icons=true&hide_border=true" />
+<p align="center">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+  <img alt="Meteor" src="https://img.shields.io/badge/Meteor-DE4F4F?style=flat-square&logo=meteor&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+</p>
 
-</details>
+---
 
-<img align="left" alt="bugs" width="100" height="100" src="https://media.giphy.com/media/bF7hth8Z0NhffWcrvL/giphy.gif">
-<img align="right" alt="bugs" width="100" height="100" src="https://media.giphy.com/media/bF7hth8Z0NhffWcrvL/giphy.gif">
+## 👋 About Me
+
+I'm a full-stack software engineer specializing in modern JavaScript and TypeScript web applications. I build and ship production software across the frontend, backend, and data layers — with a strong focus on reliability, maintainability, and developer experience.
+
+Alongside product work, I'm passionate about **AI-assisted engineering**: practical AI features, automated developer workflows, and using modern AI tooling to help teams ship better software faster.
+
+**How I like to build:** product-minded · pragmatic over clever · curious about new tooling · detail-obsessed about the small things that make software feel good.
+
+## 🚀 What I'm Building Now
+
+- **AI-assisted engineering & developer productivity** — agentic workflows, coding-tool integrations, workflow automation
+- **LLM integrations & AI-powered product features** — RAG patterns, vector search, multi-model routing (OpenAI, Anthropic, Gemini, Bedrock)
+- **Full-stack product features at Mentorloop** — Meteor 3, React, TypeScript, Node.js, MongoDB
+- **Polished SaaS end-to-end** — from idea to production, including CI/CD, observability, and i18n
+
+## 🧰 Tech Stack
+
+| Area | Tools |
+| --- | --- |
+| 🖥️ Frontend | TypeScript, JavaScript (ES6+), React, Next.js, Meteor, Material UI (MUI), Vue, Nuxt, React Router, Formik, i18next, Storybook |
+| ⚙️ Backend | Node.js, Meteor 3, MongoDB, REST APIs, GraphQL, Webhooks |
+| 🤖 AI & LLMs | OpenAI, Anthropic, Google Gemini, AWS Bedrock, LangChain, Vercel AI SDK, MCP (Model Context Protocol), Vector Search & RAG |
+| ☁️ Cloud & Deployment | AWS, Vercel, Netlify, MongoDB Atlas |
+| ✅ Testing & Quality | Mocha, Chai, Cypress, Storybook Test Runner, Chromatic, ESLint, Prettier |
+| 📈 Observability | Sentry, PostHog, Loggly |
+| 🛠️ Developer Tools | Git, GitHub, GitHub Actions, Docker, npm, VS Code, Cursor, Claude Code, Codex, OpenCode |
+| 🧪 Currently Exploring | Local LLMs, Multi-Agent Systems, Three.js, Flutter, Kotlin, AR / Spatial Computing |
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=peterpapas&layout=compact"
+    alt="Panos's top languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=peterpapas&show_icons=true&hide_border=true"
+    alt="Panos's GitHub stats"
+  />
+</p>
+
+## 🔗 Find Me
+
+<p align="center">
+  <a href="https://peterpapas.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-peterpapas.dev-000000?style=flat-square&logo=about.me&logoColor=white"></a>
+  <a href="https://fullstackpeter.com"><img alt="Projects" src="https://img.shields.io/badge/Projects-fullstackpeter.com-1f4e9f?style=flat-square&logo=googlechrome&logoColor=white"></a>
+  <a href="https://linkedin.com/in/panagiotis-papanastasatos"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-panagiotis--papanastasatos-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/peterpapas"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-peterpapas-181717?style=flat-square&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <em>Thanks for stopping by — feel free to look around or reach out.</em> 👋
+</p>
