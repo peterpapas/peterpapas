@@ -50,20 +50,27 @@ Alongside product work, I'm passionate about **AI-assisted engineering**: practi
 | 🛠️ Developer Tools | Git, GitHub, GitHub Actions, Docker, npm, VS Code, Cursor, Claude Code, Codex, OpenCode |
 | 🧪 Currently Exploring | Local LLMs, Multi-Agent Systems, Three.js, Flutter, Kotlin, AR / Spatial Computing |
 
-## 📊 GitHub Stats
+## 📚 Reading & Learning
 
 <p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=peterpapas&layout=compact"
-    alt="Panos's top languages"
-  />
+  <a href="https://app.daily.dev/peterpapas">
+    <img
+      src="https://api.daily.dev/devcards/40d65fbd29f5475ba1b959e11268ccbb.png?r=pe0"
+      width="260"
+      alt="Panos's daily.dev reading card"
+    />
+  </a>
 </p>
 
+## 🎧 Recently Played
+
 <p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=peterpapas&show_icons=true&hide_border=true"
-    alt="Panos's GitHub stats"
-  />
+  <a href="https://spotify-recently-played-readme.vercel.app">
+    <img
+      src="https://spotify-recently-played-readme.vercel.app/api?user=31p2c5azevgxqo6kj2pmftfgxcr4&count=3&width=600"
+      alt="Panos's recently played Spotify tracks"
+    />
+  </a>
 </p>
 
 ## 🔗 Find Me
